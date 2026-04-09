@@ -51,6 +51,9 @@ output.txt
 *.txt
 *.csv
 
+# But do NOT ignore requirements.txt
+!requirements.txt
+
 # Temporary files
 *.tmp
 *.temp
